@@ -1,5 +1,10 @@
 # Spring Retry
 
+**Stack:** Java, Spring Boot, Spring Retry
+
+**Skills:** Resilience, retry policies
+
+
 Demonstrates Spring Framework retry in two styles.
 
 ## Annotation
